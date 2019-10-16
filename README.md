@@ -10,6 +10,9 @@ HubertYoung 的个人博客
 
 ### 最新
 
+* [ASM技术研究](http://solo.hubertyoung.top:6422/articles/2019/10/15/1571136114244.html)
+* [Java类型描述符](http://solo.hubertyoung.top:6422/articles/2019/10/15/1571135214150.html)
+* [ASM访问级 ](http://solo.hubertyoung.top:6422/articles/2019/10/15/1571134526861.html)
 * [我在 GitHub 上的开源项目](http://solo.hubertyoung.top:6422/my-github-repos)
 * [Android中Gradle插件和Transform](http://solo.hubertyoung.top:6422/articles/2019/09/18/1568736753109.html)
 * [图论（一）图的基础知识](http://solo.hubertyoung.top:6422/articles/2019/09/13/1568311091433.html)
